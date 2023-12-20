@@ -30,8 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-igor&show_icons=true&locale=en" alt="iam-igor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-igor&" alt="iam-igor" /></p>
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Nessun file selezionato
-Attach files by dragging & dropping, selecting or pasting them.
-Editing iam-igor/README.md at main · iam-Igor/iam-igor
