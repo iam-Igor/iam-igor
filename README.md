@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iam-igor" alt="iam-igor" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Spring**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/iam-Igor/](https://github.com/iam-Igor/)
 
-- 💬 Ask me about **react, js, bootstrap**
+- 💬 Ask me about **react, js, bootstrap,Java**
 
 - 📫 How to reach me **igorgarofalo@gmail.com**
 
